@@ -1,29 +1,26 @@
 {   
     "author": {
-        "firstName": "John",
-        "lastName": "Smith",
-        "email": "foobar@gmail.com",
-        "twitterHandle": "@tannerdolby",
-        "about": "Freelance photographer interested in film and cinematography"
+        "firstName": "Ben",
+        "lastName": "Garrett",
+        "email": "bengarrettphotography@gmail.com",
+        "twitterHandle": "@bengarrettphotography",
+        "about": "Freelance abstruct and contempary photographer interested in automotive and exposure photography"
     },
     "socials": {
-        "twitter": "https://twitter.com/tannerdolby",
-        "linkedin": "https://linkedin.com/in/tanner-dolby",
-        "dribbble": "https://dribbble.com/tannerdolby",
-        "github": "https://github.com/tannerdolby"
+        "instagram": "https://www.instagram.com/bengarrettphotography/?hl=en",
     },
     "pageMetadata": {
         "home": {
             "content": "A photo gallery template with stock photos provided from Pexels. Add or remove images from the grid and customize your own image gallery!"
         },
         "gallery": {
-            "content": "A collection of images from John Smith's gallery."
+            "content": "A collection of images from Ben Garrett's gallery."
         },
         "featured": {
-            "content": "from John Smith's gallery."
+            "content": "from Ben Garrett's gallery."
         },
         "about": {
-            "content": "A page about John Smith, and photography. This template is currently the default version so add your own about me page info here."
+            "content": "A page about Ben Garrett, and photography. This template is currently the default version so add your own about me page info here."
         }
 
     }
